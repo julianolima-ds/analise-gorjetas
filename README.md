@@ -20,4 +20,4 @@ Este projeto tem como objetivo analisar o comportamento das gorjetas em um resta
 
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/julianolima-ds/analise-gorjetas.git
+   git clone https://github.com/julianolima-ds/analise-gorjetas/blob/main/analise_gorjetas_tips%20(1).ipynb
